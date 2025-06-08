@@ -7,3 +7,10 @@ Q2: What field could data science be applied to? Give an Example.
 
 Answer: Urban planning to model how certain changes to road design or zoning
 layouts would affect traffic congestion, population shifts, commercial changes, etc.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging brings all changes from one branch into another via a single
+merge commit. Rebasing on the other hand, essentially moves the divergent branch
+upstream and attaches it to the head of the target branch, creating a single
+linear commit history
