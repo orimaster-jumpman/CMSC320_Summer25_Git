@@ -1,0 +1,4 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Urban planning to model how certain changes to road design or zoning
+layouts would affect traffic congestion, population shifts, commercial changes, etc.
