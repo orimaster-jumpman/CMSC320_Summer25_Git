@@ -14,3 +14,7 @@ Answer: Merging brings all changes from one branch into another via a single
 merge commit. Rebasing on the other hand, essentially moves the divergent branch
 upstream and attaches it to the head of the target branch, creating a single
 linear commit history
+
+Q4: What are you looking forward to this semester?
+
+Answer: Working as a camp counselor for iD Tech
